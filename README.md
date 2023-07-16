@@ -1,4 +1,4 @@
-# NS-SGWB
+# Non Stationary Stochastic Gravitational Wave Background
 Repository for paper 'SGWB and its non-stationary properties]{Non-Stationary Astrophysical Stochastic Gravitational-Wave Background: A New Probe to the High Redshift Population of Binary Black Holes' authored by Mohit Raj Sah and Suvodip Mukherjee. 
 
 Link to the paper: https://arxiv.org/abs/2307.06405
